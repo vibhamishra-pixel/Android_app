@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- AppCompat-based theme so AppCompatActivity works -->
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- You can customize colors etc. later -->
+    </style>
+
+</resources>
